@@ -38,8 +38,8 @@ Developed as part of a summer training program at Future University in Egypt, in
 
 ### 1. Clone Repository
 
-- `git clone https://github.com/RawanAsaad/AI-Driven-Facial-Expression-Recognition-Model.git
-cd AI-Driven-Facial-Expression-Recognition-Model`
+ `git clone https://github.com/RawanAsaad/AI-Driven-Facial-Expression-Recognition-Model.git`
+ `cd AI-Driven-Facial-Expression-Recognition-Model`
 
 
    
