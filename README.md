@@ -30,5 +30,16 @@ Developed as part of a summer training program at Future University in Egypt, in
 ## DataSet
 
 - FER-2013 (Facial Expression Recognition 2013)
-  [Download From Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)
+  - [Download From Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)
+  - 35,887 grayscale images (48x48)
+  - 7 labels: Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
+
+## To get started 
+
+### 1. Clone Repository
+
+- `git clone https://github.com/RawanAsaad/AI-Driven-Facial-Expression-Recognition-Model.git
+cd AI-Driven-Facial-Expression-Recognition-Model`
+
+
    
