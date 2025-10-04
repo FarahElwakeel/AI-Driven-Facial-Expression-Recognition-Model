@@ -26,4 +26,9 @@ Developed as part of a summer training program at Future University in Egypt, in
     - NumPy & Pandas
     - Scikit-learn
     - Matplotlib / Seaborn
+
+## DataSet
+
+- FER-2013 (Facial Expression Recognition 2013)
+  [Download From Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)
    
