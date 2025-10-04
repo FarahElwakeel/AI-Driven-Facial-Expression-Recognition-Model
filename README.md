@@ -19,11 +19,11 @@ Developed as part of a summer training program at Future University in Egypt, in
 
  ## Tech Stack
 
- Language: Python 3.9
- Libraries & Frameworks:
-   - TensorFlow / Keras
-   - OpenCV
-   - NumPy & Pandas
-   - Scikit-learn
-   - Matplotlib / Seaborn
+ - Language: Python 3.9
+ - Libraries & Frameworks:
+    - TensorFlow / Keras
+    - OpenCV
+    - NumPy & Pandas
+    - Scikit-learn
+    - Matplotlib / Seaborn
    
